@@ -12,8 +12,10 @@ Change 5 :-> by teammate for WI6, rebasing.
 
 Change 6 :-> for enhancement1 to check rebase
 
-Change 7 :- to test stash
+Change 7 :- to test stash for WI7 is in progress.
 
 Change 8 :-> to test push for remote master
 
 Change 9 :-> to test pull operation from remote master to local master
+
+Change 10 :-> Change for Bug3 on remote master by teammate to test rebase
