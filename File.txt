@@ -11,3 +11,5 @@ Change 4 :-> by team mate for WI5, 3-waymerging.
 Change 5 :-> by teammate for WI6, rebasing.
 
 Change 6 :-> for enhancement1 to check rebase
+
+Change 7
