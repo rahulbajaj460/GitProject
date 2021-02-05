@@ -19,3 +19,5 @@ Change 8 :-> to test push for remote master
 Change 9 :-> to test pull operation from remote master to local master
 
 Change 10 :-> Change for Bug3 on remote master by teammate to test rebase
+
+Change 11:-> local master to test rebase for CR2
